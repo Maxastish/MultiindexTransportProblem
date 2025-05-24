@@ -5,9 +5,8 @@
 ### 1) Install Python
 ### 2) Install all of the libraries:
   write in comand line:
-  '''
-  pip install numpy matplotlib openpyxl pandas tkinter
-  '''
+  `pip install numpy matplotlib openpyxl pandas tkinter`
+  
 ### 3) Run the code of file "Transport_Problem.py"
 
 # Generator
